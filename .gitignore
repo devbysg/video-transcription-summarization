@@ -1,0 +1,12 @@
+.env
+.vscode/
+*.zip
+audio/
+videos/
+__pycache__/
+data_env/
+*.mp4
+*.mp3
+*.wav
+*.webm
+*.mkv
